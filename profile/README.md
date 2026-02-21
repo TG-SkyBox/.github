@@ -13,10 +13,6 @@ To empower users with accurate, reliable, and easy-to-use network monitoring too
 * **Transparency:** Open communication and open-source contributions.
 * **Collaboration:** Encouraging teamwork and shared learning within the tech community.
 
-## Projects
-
-* **SkyBox:** Our flagship network monitoring and speed testing tool.
-* [Other internal projects can be listed here]
 
 ## Connect with Us
 
